@@ -70,7 +70,7 @@ class _PriceSceenState extends State<PriceSceen> {
       ),
     );
   }
-
+//AbdumalikSapoqulov230699
   Map<String, String> coinValues = {};
   bool isWaiting = false;
 
